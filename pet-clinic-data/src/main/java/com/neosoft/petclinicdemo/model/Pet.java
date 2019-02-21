@@ -1,4 +1,4 @@
-package com.neosoft.petclinicdemo.Model;
+package com.neosoft.petclinicdemo.model;
 
 import java.time.LocalDate;
 

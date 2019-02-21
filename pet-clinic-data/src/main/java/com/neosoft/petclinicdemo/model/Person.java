@@ -1,4 +1,4 @@
-package com.neosoft.petclinicdemo.Model;
+package com.neosoft.petclinicdemo.model;
 
 public class Person {
     private String firstName;
